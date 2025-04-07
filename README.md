@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miyamiiyaa. I am a computer science student interested in game dev.
+- 👋 Hi, you can call me Miya. I am a computer science student interested in game dev.
 - 📫 discord: miyamiiyaa
 
 <!---
