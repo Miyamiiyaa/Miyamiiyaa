@@ -16,7 +16,7 @@ My goal is to pursue grad school for VLSI Design or Computer Architecture, thoug
   * Art Community Commission Website - Creating a website-to-discord automation solution for an artist community to aid with commission communications. Built with **TypeScript**, React, Node.JS, and Firebase using Tailwindcss and Vite/Vitest.
 
 * **Past Projects:**
-  * Roblox Dev Contributor - Contributed to network serialization/deserialization packages using **Lua** and **Typescript** to reduce latency and decrease packet size in a multiplayer Roblox game.
+  * Roblox Project Contributor - Contributed to network serialization/deserialization packages using **Lua** and **Typescript** to reduce latency and decrease packet size in a multiplayer Roblox game.
 ### Contact:
 - discord: miyamiiyaa
 - Email: itsmiyamiiyaa@gmail.com
