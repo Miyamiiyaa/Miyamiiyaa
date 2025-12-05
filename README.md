@@ -1,6 +1,6 @@
 ### Hi, I'm Miya!
 
-I am a **freshman Electrical Engineering and CS student** interested in the intersection of Hardware and Software design. I am pursuing undergraduate research opportunities in VLSI/chip design and computer architecture.
+I am a **freshman Electrical Engineering and CS student** currently looking for undergraduate research opportunities in VLSI/chip design and computer architecture.
 
 ### Focus / Interests
 
