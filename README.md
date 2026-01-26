@@ -14,6 +14,7 @@ My goal is to pursue grad school for VLSI Design or Computer Architecture, thoug
 * **Main Languages:** TypeScript, C/C++, Python
 * **Current Projects:**
   * Art Community Commission Website - Creating a website-to-discord automation solution for an artist community to aid with commission communications. Built with **TypeScript**, React, Node.JS, and Firebase using Tailwindcss and Vite/Vitest.
+  * TinyTapeout Project - Learning Verilog with a goal of printing a working design on the upcoming shuttle.
 
 * **Past Projects:**
   * Roblox Project Contributor - Contributed to network serialization/deserialization packages using **Lua** and **Typescript** to reduce latency and decrease packet size in a multiplayer Roblox game.
