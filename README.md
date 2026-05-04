@@ -1,19 +1,13 @@
-### Hi, I'm Miya!
+### Hi, I'm Eric!
 
-I am a **freshman Electrical Engineering and CS student** currently looking for undergraduate research opportunities in VLSI/chip design and computer architecture.
-
-### Focus / Interests
-
-My goal is to pursue grad school for VLSI Design or Computer Architecture, though I am still figuring out my interests.
-
-* **Tech Interests:** Circuits, Digital Logic, Compilers
-* **General Interests:** Art, Reading, Math & Physics
+I am a **freshman Electrical Engineering and CS student.**
 
 ### Skills / Projects
 
 * **Main Languages:** TypeScript, C/C++, Python, Java
 * **Current Projects:**
   * Art Community Commission Website - Creating a website-to-discord automation solution for an artist community to aid with commission communications. Built with **TypeScript**, React, Node.JS, and Firebase using Tailwindcss and Vite/Vitest.
+  * Art Community Discord bot - A bot that integrates with our website to allow for management of gallery, commission communications, and other account data through discord.
   * TinyTapeout Project - Learning Verilog with a goal of printing a working design on the upcoming shuttle.
 
 * **Past Projects:**
