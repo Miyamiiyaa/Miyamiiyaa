@@ -1,6 +1,6 @@
 ### Hi, I'm Eric!
 
-I am a **freshman Electrical Engineering and CS student.**
+I am a **sophomore Electrical Engineering and CS student.**
 
 ### Skills / Projects
 
